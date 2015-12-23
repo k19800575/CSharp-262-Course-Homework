@@ -1,0 +1,6 @@
+C:\Users\Administrator\Dropbox\code\[CS262]Beginner HomeWork\Beginner\bin\Debug\Beginner.exe.config
+C:\Users\Administrator\Dropbox\code\[CS262]Beginner HomeWork\Beginner\bin\Debug\Beginner.exe
+C:\Users\Administrator\Dropbox\code\[CS262]Beginner HomeWork\Beginner\bin\Debug\Beginner.pdb
+C:\Users\Administrator\Dropbox\code\[CS262]Beginner HomeWork\Beginner\obj\Debug\Beginner.exe
+C:\Users\Administrator\Dropbox\code\[CS262]Beginner HomeWork\Beginner\obj\Debug\Beginner.pdb
+C:\Users\Administrator\Dropbox\code\[CS262]Beginner HomeWork\Beginner\obj\Debug\Beginner.csprojResolveAssemblyReference.cache
